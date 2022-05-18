@@ -47,4 +47,5 @@ func main() {
 	fmt.Println(s.Get())
 	fmt.Println(s.Get())
 	fmt.Println(s.Get())
+	fmt.Println(s.Get())
 }
